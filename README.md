@@ -1,2 +1,3 @@
 # Demo
-Author-Veerat
+This is my first Git Repo
+Author - Veerat
